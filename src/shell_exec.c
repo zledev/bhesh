@@ -173,7 +173,7 @@ bool exec_internal_commands(Command *cmd, bool *err_status, Shell *shell, bool *
   case 1:
     char *bhesh = "Bhesh v0.5.0\n"
                   "A random shell that nobody cares about.\n"
-                  "MIT License © 2025 bhenzyldave\n";
+                  "MIT License © 2025 zleDev\n";
 
     printf("%s", bhesh);
     break;
