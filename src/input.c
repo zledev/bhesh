@@ -153,7 +153,7 @@ bool getCommandBody(Shell *shell, Command *cmd) {
 
     if (tmp_c == ' ') {
       // Skips for next argument
-      curr_c++;
+      curr_c++;      
       continue;
     }
 
